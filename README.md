@@ -16,7 +16,7 @@ A classic Tic Tac Toe game built using HTML, CSS and Vanilla JavaScript. Feature
 * CSS3
 * Vanilla JavaScript (ES6)
 
-🎯 __Purpose__
+## __Purpose__
 
 * This project was built to practice:
 * JavaScript event handling
