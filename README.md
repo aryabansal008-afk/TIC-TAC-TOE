@@ -1,7 +1,7 @@
 # TIC-TAC-TOE
 A classic Tic Tac Toe game built using HTML, CSS and Vanilla JavaScript. Features two player gameplay, dynamic UI updates, winner detection and reset functionality, focusing on clean DOM manipulation and class-based styling without any frameworks.
 
-✨ __Features__
+## __Features__
 * Two-player gameplay (X vs O)
 * Turn-based logic using JavaScript
 * Dynamic DOM manipulation
@@ -10,7 +10,7 @@ A classic Tic Tac Toe game built using HTML, CSS and Vanilla JavaScript. Feature
 * Reset game functionality
 * Clean and minimal UI
 
-🛠️  __Tech Stack__
+## __Tech Stack__
 
 * HTML5
 * CSS3
